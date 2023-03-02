@@ -15,6 +15,8 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+    	System.out.println("updated existing code");
+    	System.out.println("updated 2");
         assertTrue( true );
     }
 }
